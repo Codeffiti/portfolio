@@ -2,8 +2,8 @@
   "name": "codefetti-portfolio",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "cross-env NODE_OPTIONS='--openssl-legacy-provider' next dev",
+    "build": "cross-env NODE_OPTIONS='--openssl-legacy-provider' next build",
     "start": "next start",
     "build-stats": "cross-env ANALYZE=true npm run build",
     "export": "next export",
