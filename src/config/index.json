@@ -18,7 +18,7 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Wismo",
+    "title": "WisMo",
     "subtitle": "Digital Dream.",
     "description": "Wismo is a web development company that we are specialized in creating a custom websites and web application for businesses. With a team of young enthusiastic people and with our years of experience, our aim to create unique, functional, and user-friendly websites that reflects the business's personality.",
     "img": "/assets/images/happyTeam.jpeg",
@@ -28,47 +28,45 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:mjvishnu98@gmail.com?subject=I like react landing page!"
     }
   },
   "product": {
-    "title": "Matrimony Website",
+    "title": "Products",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Matrimony Websites",
+        "description": "Matrimony websites are online platforms that help people find their life partners. Read to get your life partner based on hobbies, interests, location, and more.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "e-Commerce Websites",
+        "description": "An e-commerce website is an online platform that enables businesses to sell goods or services entirely online. E-commerce allows businesses to reach a global market, providing convenience and a wide range of product options for consumers.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Services ",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "Web Development",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "App Development",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Google Ads",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Digital Marketing",
+        "icon": "/assets/images/ts.png"
+      },
+      {
+        "name": "Content Writing",
         "icon": "/assets/images/ts.png"
       }
     ]
