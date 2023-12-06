@@ -18,10 +18,10 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Wismo",
+    "title": "WisMo",
     "subtitle": "Digital Dream.",
     "description": "Wismo is a web development company that we are specialized in creating a custom websites and web application for businesses. With a team of young enthusiastic people and with our years of experience, our aim to create unique, functional, and user-friendly websites that reflects the business's personality.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/happyTeam.jpg",
     "primaryAction": {
       "text": "Contact Us",
       "href": "#"
@@ -32,43 +32,43 @@
     }
   },
   "product": {
-    "title": "Matrimony Website",
+    "title": "Our Products",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Matrimony Websites",
+        "description": "Matrimony service that offers to find your life partner based on hobbies, interests, location, and more.",
+        "img": "/assets/images/product1.png"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Ecommerce Business App/Websites",
+        "description": "Looking for starting an online business. Here WisMo Help you to create Mobile apps. It help businesses navigate through and leverage the complex digital world with a simple and user-friendly interface.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Our Services ",
+    "subtitle": "",
+    "description": "",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "Website Development",
+        "description": "Web development encompasses aspects such as web design, web publishing, web programming, and database management in the process of creating, building, and maintaining websites.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "App Development",
+        "description": "Application development is an important stage for ventures that need to future-verification their organizations, increment coordinated effort and proficiency, and further develop client encounters",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Digital Marketing",
+        "description": "One of the most well-liked and effective strategies for increasing awareness, interest, and sales of your products or services is digital marketing. It can produce outstanding outcomes and is carried out through digital channels like social media, websites, search engines, email, and text messaging.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Graphic Designing",
+        "description": "Graphic design is an essential component of business marketing because it contributes to the creation of a brand's visual identity, establishes a recognizable brand aesthetic, and elicits consumer emotions and associations.",
         "icon": "/assets/images/ts.png"
       }
     ]
